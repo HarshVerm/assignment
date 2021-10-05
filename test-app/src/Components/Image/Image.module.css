@@ -1,0 +1,13 @@
+.imageContainer {
+  position: absolute;
+  width: 49px;
+  height: 49px;
+  background: #c4c4c4;
+}
+
+.image {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
